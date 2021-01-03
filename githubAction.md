@@ -14,8 +14,6 @@
   - 不知怎么修改README.md文件的看[这个图](icon/action3.png);
     
 
-
-
 #### 京东Cookie
 
   - Secret新增`JD_COOKIE`，填入cookie信息，多账号的cookie， 使用`&`或者换行隔开(两种方法)
